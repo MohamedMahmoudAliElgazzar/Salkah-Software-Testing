@@ -91,11 +91,11 @@ Status: Closed
 
 ## Before / After Evidence
 
-**ISS-001 — Logo and the Name of the Application**  
+**ISS-001 — Space doesn't fit**  
 Before:  
-![ISS-001 Before](assets/before-after/ISS-001%20Before.jpg))  
+![ISS-001 Before](assets/before-after/ISS-003%20Before.jpg)  
 After:  
-![ISS-001 After]([assets/before-after/ISS-001%20After.jpg))
+![ISS-001 After](assets/before-after/ISS-003%20After.jpg))
 
 **ISS-002 — button issue**  
 Before:  
