@@ -90,19 +90,18 @@ Status: Closed
 ---
 
 ## Before / After Evidence
-Examples (replace with your files):
 
 **ISS-001 — Logo and the Name of the Application**  
 Before:  
-![ISS-001 Before]([assets/before-after/issue-001-Before.jpg](https://github.com/MohamedMahmoudAliElgazzar/Salkah-Software-Testing/blob/main/assets/before-after/ISS-001%20Before.jpg))  
+![ISS-001 Before](assets/before-after/ISS-001%20Before.jpg))  
 After:  
-![ISS-001 After]([assets/before-after/issue-001-After.jpg](https://github.com/MohamedMahmoudAliElgazzar/Salkah-Software-Testing/blob/main/assets/before-after/ISS-001%20After.jpg))
+![ISS-001 After]([assets/before-after/ISS-001%20After.jpg))
 
 **ISS-002 — button issue**  
 Before:  
-![ISS-002 Before]([assets/before-after/issue-002-Before.jpg](https://github.com/MohamedMahmoudAliElgazzar/Salkah-Software-Testing/blob/main/assets/before-after/ISS-002%20Before.jpg))  
+![ISS-002 Before](assets/before-after/ISS-002%20Before.jpg))  
 After:  
-![ISS-002 After]([assets/before-after/issue-002-After.jpg](https://github.com/MohamedMahmoudAliElgazzar/Salkah-Software-Testing/blob/main/assets/before-after/ISS-002%20After.jpg))
+![ISS-002 After](assets/before-after/ISS-002%20After.jpg))
 
 ---
 
