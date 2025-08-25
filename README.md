@@ -91,17 +91,24 @@ Status: Closed
 
 ## Before / After Evidence
 
-**ISS-001 — Space doesn't fit**  
+**ISS-002 — Virtical Text in Button**  
+Before:  
+![ISS-002 Before](assets/before-after/ISS-002%20Before.jpg))  
+After:  
+![ISS-002 After](assets/before-after/ISS-002%20After.jpg))
+
+**ISS-003 — UI/UX Not Applied**  
 Before:  
 ![ISS-001 Before](assets/before-after/ISS-003%20Before.jpg)  
 After:  
 ![ISS-001 After](assets/before-after/ISS-003%20After.jpg))
 
-**ISS-002 — button issue**  
+
+**ISS-004 — Space doesn't fit**  
 Before:  
-![ISS-002 Before](assets/before-after/ISS-002%20Before.jpg))  
+![ISS-001 Before](assets/before-after/ISS-004%20Before.jpg)  
 After:  
-![ISS-002 After](assets/before-after/ISS-002%20After.jpg))
+![ISS-001 After](assets/before-after/ISS-004%20After.jpg))
 
 ---
 
