@@ -92,17 +92,17 @@ Status: Closed
 ## Before / After Evidence
 Examples (replace with your files):
 
-**ISS-001 — Expired JWT still accepted**  
+**ISS-001 — Logo and the Name of the Application**  
 Before:  
-![ISS-001 Before](assets/before-after/issue-001-before.png)  
+![ISS-001 Before](assets/before-after/issue-001-Before.jpg)  
 After:  
-![ISS-001 After](assets/before-after/issue-001-after.png)
+![ISS-001 After](assets/before-after/issue-001-After.jpg)
 
-**ISS-002 — Invalid input not validated**  
+**ISS-002 — button issue**  
 Before:  
-![ISS-002 Before](assets/before-after/issue-002-before.png)  
+![ISS-002 Before](assets/before-after/issue-002-Before.jpg)  
 After:  
-![ISS-002 After](assets/before-after/issue-002-after.png)
+![ISS-002 After](assets/before-after/issue-002-After.jpg)
 
 ---
 
